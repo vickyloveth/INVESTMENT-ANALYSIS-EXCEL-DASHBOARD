@@ -31,7 +31,7 @@ Below is a snapshot of the interactive Excel dashboard alongside the underlying 
 
 ##  Analysis & Visualizations
 * Analyzed investment trends from 2018–2024 using a line chart to observe changes in investor participation over time.
-* *Used a pie chart to visualize the percentage distribution of total investment by type (stocks, bonds, crypto, mutual funds, and real estate).
+* Used a pie chart to visualize the percentage distribution of total investment by type (stocks, bonds, crypto, mutual funds, and real estate).
 * Created a column chart to analyze total investment by region, highlighting Lagos as the highest contributor and Port Harcourt as the lowest.
 * Built Pivot Tables to support KPI calculations and dashboard visuals.
 * Added slicers to enable interactive filtering across investment type, region, and year.
@@ -59,7 +59,7 @@ Based on the insights from this analysis, organizations and investors can take t
 ## CONTACT DETAILS
 OGUNDEJI VICTORIA
 
-JUNIOR DATA ANALYST
+DATA ANALYST
 
 holuwaloveth@gmail.com
 https://www.linkedin.com/in/ogundeji-victoria-099a18231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
