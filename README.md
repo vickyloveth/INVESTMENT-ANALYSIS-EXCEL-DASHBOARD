@@ -59,7 +59,7 @@ Based on the insights from this analysis, organizations and investors can take t
 ## CONTACT DETAILS
 OGUNDEJI VICTORIA
 
-ASPIRING DATA ANALYST
+JUNIOR DATA ANALYST
 
 holuwaloveth@gmail.com
 https://www.linkedin.com/in/ogundeji-victoria-099a18231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
